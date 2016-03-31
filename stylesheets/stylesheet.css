@@ -19,12 +19,14 @@ div#colonne1 {
     float: left;
     width: 160px;
     margin-right: 10px;
+    margin-left: 10px;
 }
 
 div#colonne2 {
     float: right;
     width: 350px;
     margin-left: 10px;
+    margin-right: 10px;
 }
 
 div#centre {
@@ -240,8 +242,8 @@ div#centre {
     font-size: 1rem; } }
 
 .site-footer {
-  padding-top: 2rem;
-  margin-top: 2rem;
+  padding-top: 1rem;
+  margin-top: 1rem;
   border-top: solid 1px #eff0f1; }
 
 .site-footer-owner {
