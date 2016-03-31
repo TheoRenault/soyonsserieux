@@ -25,6 +25,7 @@ div#colonne2 {
     float: right;
     width: 300px;
     margin-left: 10px;
+    position:absolute;
 }
 
 div#centre {
