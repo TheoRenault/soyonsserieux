@@ -22,20 +22,6 @@
   t.ready = function(f) {
     t._e.push(f);
   };
- 
-  return t;
-}(document, "script", "twitter-wjs"));
-
-twttr.widgets.createTimeline(
-  '123456',
-  document.getElementById('timeline'),
-  {
-    width: '450',
-    height: '700',
-    related: 'twitterdev,twitterapi'
-  }).then(function (el) {
-    console.log("Embedded a timeline.")
-  });
   </script>
   </head>
   <body>
