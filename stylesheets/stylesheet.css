@@ -23,13 +23,13 @@ div#colonne1 {
 
 div#colonne2 {
     float: right;
-    width: 300px;
+    width: 350px;
     margin-left: 10px;
 }
 
 div#centre {
     margin-left: 170px;
-    margin-right: 310px;
+    margin-right: 360px;
     overflow: hidden;
 }
 
