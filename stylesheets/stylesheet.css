@@ -269,7 +269,7 @@ div#centre {
 
 @media screen and (min-width: 64em) {
   .site-footer {
-    font-size: 1rem; } }
+    font-size: 0,8rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .site-footer {
