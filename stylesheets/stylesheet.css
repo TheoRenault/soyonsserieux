@@ -251,17 +251,6 @@ div#centre {
 .site-footer-credits {
   color: #819198; }
   
-  html {
-  height: 100%;
-}
-body {
-  min-height: 100%;
-  margin: 0;
-  padding: 0;
-}
-  body {position: relative;}
-footer {position: absolute; bottom: 0; left: 0; right: 0}
-* {-moz-box-sizing: border-box; box-sizing: border-box;}
 
 @media screen and (min-width: 64em) {
   .site-footer {
