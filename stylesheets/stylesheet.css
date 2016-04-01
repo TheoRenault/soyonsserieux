@@ -53,6 +53,12 @@ div#centre {
     margin-left: 170px;
     margin-right: 360px;
     overflow: hidden;
+    hr {
+  height: 2px;
+  padding: 1rem;
+  margin: 1rem 0;
+  background-color: #eff0f1;
+  border: 0; }
 }
 
 .btn {
