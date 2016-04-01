@@ -249,6 +249,13 @@ div#centre {
     padding: 2rem 1rem;
     font-size: 1rem; } }
 
+hr {
+  height: 2px;
+  padding: 0;
+  margin: 1rem 0;
+  background-color: #eff0f1;
+  border: 0; }
+
 .site-footer {
   padding-top: 1rem;
   margin-top: 1rem;
