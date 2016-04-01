@@ -16,7 +16,7 @@ footer {
 
  hr {
   height: 2px;
-  padding: 0;
+  padding: 1rem;
   margin: 1rem 0;
   background-color: #eff0f1;
   border: 0; }
