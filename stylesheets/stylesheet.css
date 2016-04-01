@@ -44,8 +44,8 @@ div#colonne2 {
 }
 
 div#centre {
-    margin-left: 350px;
-    margin-right: 360px;
+    margin-left: 10px;
+    margin-right: 10px;
     overflow: hidden;
     hr {
   height: 2px;
