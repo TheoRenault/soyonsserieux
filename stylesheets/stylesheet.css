@@ -31,8 +31,9 @@ a {
 div#colonne1 {
     float: left;
     width: 160px;
+    margin-head: 10px;
     margin-right: 10px;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 div#colonne2 {
