@@ -79,8 +79,9 @@ div#centre {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #00BFFF); }
+  background-image: linear-gradient(120deg, #155799, #00BFFF); 
   margin-bottom: -20px
+}
 
 .project-name {
   font-size: 3.5rem;
