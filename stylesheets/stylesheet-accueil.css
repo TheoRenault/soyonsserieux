@@ -27,19 +27,11 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-    
-div#colonne1 {
-    float: left;
-    width: 380px;
-    margin-right: 10px;
-    margin-top: 10px;
-    margin-left: 10px;
-}
 
 div#colonne2 {
     float: right;
     width: 350px;
-    margin-left: 10px;
+    margin-left: 200px;
     margin-right: 10px;
 }
 
