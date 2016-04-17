@@ -8,6 +8,7 @@ html, body {
 body {
     display : table;
     width: 100%;
+    margin: 25px;
 }
 footer {
     display : table-row;
@@ -39,9 +40,8 @@ div#centre {
     background-color: #D8D8D8;
     margin-left: 300px;
     margin-right: 300px;
-    margin-top: 10px;
+    margin-top: 50px;
     overflow: hidden;
-    background: 
     <div align="right">…</div>
 }
 
