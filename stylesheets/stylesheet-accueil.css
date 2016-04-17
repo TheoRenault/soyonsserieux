@@ -8,7 +8,6 @@ html, body {
 body {
     display : table;
     width: 100%;
-    background-color: #D8D8D8;
 }
 footer {
     display : table-row;
@@ -37,6 +36,7 @@ div#colonne2 {
 }
 
 div#centre {
+    background-color: #D8D8D8;
     margin-left: 300px;
     margin-right: 300px;
     margin-top: 10px;
