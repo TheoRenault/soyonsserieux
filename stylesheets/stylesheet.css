@@ -30,13 +30,13 @@ a {
 
 div#colonne2 {
     float: right;
-    width: 200px;
+    width: 250px;
     margin-left: 10px;
     margin-right: 250px;
 }
 
 div#centre {
-    margin-left: 200px;
+    margin-left: 250px;
     margin-right: 250px;
     margin-top: 10px;
     overflow: hidden;
