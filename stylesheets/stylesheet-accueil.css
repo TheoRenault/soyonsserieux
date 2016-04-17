@@ -41,6 +41,7 @@ div#colonne2 {
 
 div#centre {
     background-color: #D8D8D8;
+    p.solid {border-style: solid;}
     margin-left: 300px;
     margin-right: 300px;
     overflow: hidden;
