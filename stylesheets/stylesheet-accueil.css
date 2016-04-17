@@ -39,9 +39,10 @@ div#colonne2 {
 }
 
 div#centre {
+    margin-top: 25px;
     background-color: #D8D8D8;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 250px;
+    margin-right: 250px;
     overflow: hidden;
     <div align="right">…</div>
 }
