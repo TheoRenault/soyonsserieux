@@ -38,14 +38,14 @@ div#colonne1 {
 
 div#colonne2 {
     float: right;
-    width: 350px;
+    width: 200px;
     margin-left: 10px;
-    margin-right: 10px;
+    margin-right: 250px;
 }
 
 div#centre {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 200px;
+    margin-right: 250px;
     margin-top: 10px;
     overflow: hidden;
     background: 
