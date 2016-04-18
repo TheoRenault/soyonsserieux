@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Seriously?</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header"> 
+      <h1 class="project-name">Soyons Sérieux</h1>
+      <h2 class="project-tagline">Seriously?</h2>
+      <a href="http://soyonsserieux.tk/Actualites" class="btn">Actualités</a>
+      <a href="http://soyonsserieux.tk/Sport" class="btn">Sport</a>
+      <a href="http://soyonsserieux.tk/Humour" class="btn">Humour</a>
+      <a href="http://soyonsserieux.tk/Musique" class="btn">Musique</a>
+      <a href="http://soyonsserieux.tk/Photos" class="btn">Photos</a>
+      <a href="http://soyonsserieux.tk/Seriously" class="btn">Seriously?</a>
+      <a href="http://soyonsserieux.tk" class="btn">Home</a>
+    </section>
+  
+<div id="colonne2">
+
+</div>
+
+<div id="centre">
+<section class="main-content">
+  <h3>
+     <a href="http://soyonsserieux.tk/seriously/18-04-2016-Why-the-British-Monarchy-should-be-dissolved.html">Why the British Monarchy should be dissolved?</a>
+  </h3>
+        <p>By Théo Renault.</p>
+        <center>
+        <p><a http://www.conspiracyclub.co/wp-content/uploads/2015/04/royal_00001.jpg </a> 
+        </center>
+        <p>The monarchy of the United Kingdom, commonly referred to as the British monarchy, is the constitutional monarchy of the United Kingdom and its overseas territories. Queen Elizabeth II, the current monarch and head of state, ascended the throne on 6 February 1952. But the Birtish monarchy sould be abolished, and here is why.  
+        <a href="http://soyonsserieux.tk/seriously/18-04-2016-Why-the-British-Monarchy-should-be-dissolved.html">Lire la suite…</a> 
+        </p>
+        <div id="footer">
+   <hr />
+        </div>
+
+</div>
+  <footer class="site-footer">
+      <div id="footer">
+   <hr />
+</div>
+    <center> 
+      <p> ©Soyons Sérieux.tk | 
+        <a href="https://soyonsserieux.tk">Accueil</a> | 
+        <a href="http://soyonsserieux.tk/a.propos.html">À propos</a> | 
+        <a href="http://soyonsserieux.tk/quisommesnous.html">Qui sommes nous ?</a> |
+        <a href="nous.contacter.html">Nous contacter</a>
+      </p>
+      <p style="color:#BDBDBD;">Soyons Sérieux est un journal d'information en ligne. Ses jeunes rédacteurs offrent aux lecteurs leur vision de l'actualité et du monde qui les entoure. 
+      </p>
+    </center>
+  </footer>
+</section>
+</body>
+</html>
