@@ -1,4 +1,4 @@
-@media screen and (min-width: 640px) {
+
 * {
   box-sizing: border-box; }
 
@@ -28,7 +28,7 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-
+@media screen and (min-width: 640px) {
 div#colonne2 {
     float: right;
     width: 300px;
@@ -43,7 +43,7 @@ div#centre {
     margin-top: 10px;
     overflow: hidden;
 }
-
+}
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
@@ -62,7 +62,7 @@ div#centre {
   text-decoration: none;
   background-color: rgba(255, 255, 255, 0.2);
   border-color: rgba(255, 255, 255, 0.3);
-}
+
 @media screen and (min-width: 64em) {
   .btn {
     padding: 0.75rem 1rem; } }
