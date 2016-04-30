@@ -200,7 +200,7 @@ div#centre {
   color: #819198; }
   
 
-@media (max-width: 640px) {
+@media (max-width: 800px) {
     * {
         box-sizing: border-box;
     }
@@ -276,9 +276,15 @@ div#centre {
   margin-top: 0;
   margin-bottom: 0rem;
   padding-bottom: 0rem;
-  font-family: "Tahoma, Geneva, sans-serif";
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   margin-bottom: -1rem;
 }
+
+  .project-tagline {
+  margin-bottom: 1rem;
+  font-size:1rem;
+  font-weight: normal;
+  opacity: 0.7; }
     
     div#colonne2{
         display:none;
