@@ -1,3 +1,4 @@
+@media screen and (min-width: 640px) {
 * {
   box-sizing: border-box; }
 
@@ -60,8 +61,8 @@ div#centre {
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
   background-color: rgba(255, 255, 255, 0.2);
-  border-color: rgba(255, 255, 255, 0.3); }
-
+  border-color: rgba(255, 255, 255, 0.3);
+}
 @media screen and (min-width: 64em) {
   .btn {
     padding: 0.75rem 1rem; } }
