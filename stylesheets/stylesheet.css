@@ -272,4 +272,8 @@ div#centre {
         font-style: italic;
         color: #777;
     }
+    
+    #colonne2{
+        display:hidden;
+    }
 }
