@@ -261,15 +261,6 @@ div#centre {
         display: none !important;
     }
     
-    /* Un message personnalisé */
-
-    body:before {
-        content: "Version mobile du site";
-        display: block;
-        text-align: center;
-        font-style: italic;
-        color: #777;
-    }
     
     div#colonne2{
         display:none;
@@ -278,8 +269,8 @@ div#centre {
     div#center{
         margin:0 auto;
         padding:0;
-        margin-left:0;
-        margin-right:0;
+        left:0;
+        right:0;
         width:100%;
     }
 }
