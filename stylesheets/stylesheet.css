@@ -43,6 +43,13 @@ div#centre {
     overflow: hidden;
 }
 
+ hr {
+  height: 2px;
+  padding: 1;
+  margin: 1rem;
+  background-color: #eff0f1;
+  border: 0; }
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
