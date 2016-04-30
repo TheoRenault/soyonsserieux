@@ -278,5 +278,8 @@ div#centre {
     div#center{
         margin:0 auto;
         padding:0;
+        margin-left:0;
+        margin-right:0;
+        width:100%;
     }
 }
