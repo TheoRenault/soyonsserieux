@@ -272,6 +272,6 @@ div#centre {
     }
     
     div#colonne2{
-        display:hidden;
+        display:none;
     }
 }
