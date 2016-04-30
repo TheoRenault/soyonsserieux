@@ -208,7 +208,7 @@ div#centre {
   .site-footer {
     font-size: 1rem; } }
 
-@media (max-width: 640px) {
+@media (max-width: 800px) {
     * {
         box-sizing: border-box;
     }
