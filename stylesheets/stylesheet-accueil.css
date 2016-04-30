@@ -287,6 +287,12 @@ div#centre {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   margin-bottom: -1rem;
 }
+
+  .project-tagline {
+  margin-bottom: 1rem;
+  font-size:1rem;
+  font-weight: normal;
+  opacity: 0.7; }
     
     div#colonne2{
         display:none;
