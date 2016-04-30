@@ -266,11 +266,9 @@ div#centre {
         display:none;
     }
     
-    div#center{
-        margin:0 auto;
-        padding:0;
-        left:0;
-        right:0;
-        width:100%;
+    div#centre {
+    margin-left: 5px;
+    margin-right: 5px;
+    width:100%;
     }
 }
