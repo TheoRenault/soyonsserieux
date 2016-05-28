@@ -8,6 +8,7 @@ html, body {
 body {
     display : table;
     width: 100%;
+    margin-left: 25px;
 }
 footer {
     display : table-row;
@@ -20,30 +21,32 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #606c71; 
+}
+  
 
 a {
-  color: #1e6bb8;
+  color: #DF0101;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-
+    
 div#colonne2 {
     float: right;
-    width: 300px;
-    margin-left: 10px;
-    margin-right: 250px;
-    margin-top: 10px;
+    width: 350px;
+    margin-left: 200px;
+    margin-right: 10px;
 }
 
 div#centre {
+    margin-top: 25px;
     margin-left: 250px;
     margin-right: 250px;
-    margin-top: 10px;
     overflow: hidden;
+    <div align="right">…</div>
 }
 
- hr {
+   hr {
   height: 2px;
   padding: 1;
   margin: 1rem;
@@ -96,10 +99,7 @@ div#centre {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #00BFFF);
-  margin-left: 0px;
-  margin-right: 0px;
-
+  background-image: linear-gradient(120deg, #FF0000, #FA5858); 
 }
 
 @media screen and (min-width: 64em) {
@@ -137,12 +137,12 @@ div#centre {
   font-size: 25px;
   margin-bottom: -20px;
   font-weight: bold;
-  color: #155799; }
+  color: #FF4000; }
  
 .main-content code {
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
-  color: #383e41;
+  color: #FF4000;
   background-color: #f3f6fa; }
   
 
@@ -231,6 +231,14 @@ div#centre {
 .site-footer-credits {
   color: #819198; }
   
+
+@media screen and (min-width: 64em) {
+  .site-footer {
+    font-size: 0,8rem; } }
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .site-footer {
+    font-size: 1rem; } }
 
 @media (max-width: 800px) {
     * {
