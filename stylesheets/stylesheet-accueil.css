@@ -26,11 +26,11 @@ body {
   
 
 a {
-  color: #1e6bb8;
+  color: #DF0101;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-
+    
 div#colonne2 {
     float: right;
     width: 350px;
