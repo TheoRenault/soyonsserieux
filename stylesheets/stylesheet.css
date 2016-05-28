@@ -99,7 +99,7 @@ div#centre {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #FF0000, #FA5858); 
+  background-image: linear-gradient(120deg, #B40404, #DF0101); 
 }
 
 @media screen and (min-width: 64em) {
