@@ -313,10 +313,10 @@ div#centre {
     
     .project-name {
   font-size: 3rem;
+  font-family: "Impact";
   margin-top: 0;
   margin-bottom: 0rem;
   padding-bottom: 0rem;
-  font-family: "Impact";
   margin-bottom: -1rem;
 }
 
