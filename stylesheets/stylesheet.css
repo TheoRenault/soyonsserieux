@@ -148,7 +148,7 @@ div#centre {
 
 .main-content pre {
   padding: 0.8rem;
-  font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
+
   color: #567482;
   word-wrap: normal;
   background-color: #f3f6fa;
@@ -305,7 +305,12 @@ div#centre {
         width: auto;
     }
     
-    
+        /* masquer les éléments superflus */
+
+    .hide_mobile {
+        display: none !important;
+    }
+  
     .project-name {
   font-size: 3rem;
   font-family: "Impact";
