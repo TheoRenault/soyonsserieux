@@ -305,11 +305,6 @@ div#centre {
         width: auto;
     }
     
-    /* masquer les éléments superflus */
-
-    .hide_mobile {
-        display: none !important;
-    }
     
     .project-name {
   font-size: 3rem;
