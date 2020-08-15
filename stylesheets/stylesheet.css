@@ -134,13 +134,13 @@ div#centre {
 .main-content img {
   max-width: 100%; }
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  font-family: "Impact";
   font-size: 25px;
   margin-bottom: -20px;
   font-weight: bold;
   color: #B40404; }
  
 .main-content code {
-  font-family: "Impact";
   font-size: 0.9rem;
   color: #B40404;
   background-color: #f3f6fa; }
@@ -148,7 +148,7 @@ div#centre {
 
 .main-content pre {
   padding: 0.8rem;
-
+  font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
   color: #567482;
   word-wrap: normal;
   background-color: #f3f6fa;
